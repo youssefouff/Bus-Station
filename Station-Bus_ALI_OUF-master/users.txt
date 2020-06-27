@@ -1,0 +1,8 @@
+ali,123,0
+ahmed,102,1
+shawky,12,2
+ouf,al,3
+aa,aa,5
+ali12,ah,6
+nadine,nasa,7
+ouf,12345,8
